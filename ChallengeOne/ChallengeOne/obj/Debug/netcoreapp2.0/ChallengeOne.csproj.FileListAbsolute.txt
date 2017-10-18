@@ -1,0 +1,11 @@
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/bin/Debug/netcoreapp2.0/ChallengeOne.deps.json
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/bin/Debug/netcoreapp2.0/ChallengeOne.runtimeconfig.json
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/bin/Debug/netcoreapp2.0/ChallengeOne.runtimeconfig.dev.json
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/bin/Debug/netcoreapp2.0/ChallengeOne.dll
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/bin/Debug/netcoreapp2.0/ChallengeOne.pdb
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/obj/Debug/netcoreapp2.0/ChallengeOne.csprojResolveAssemblyReference.cache
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/obj/Debug/netcoreapp2.0/ChallengeOne.csproj.CoreCompileInputs.cache
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/obj/Debug/netcoreapp2.0/ChallengeOne.AssemblyInfoInputs.cache
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/obj/Debug/netcoreapp2.0/ChallengeOne.AssemblyInfo.cs
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/obj/Debug/netcoreapp2.0/ChallengeOne.dll
+/Users/malikrobinson/Projects/ChallengeOne/ChallengeOne/obj/Debug/netcoreapp2.0/ChallengeOne.pdb

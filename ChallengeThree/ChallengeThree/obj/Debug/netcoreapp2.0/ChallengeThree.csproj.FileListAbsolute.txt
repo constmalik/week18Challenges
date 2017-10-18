@@ -1,0 +1,11 @@
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/bin/Debug/netcoreapp2.0/ChallengeThree.deps.json
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/bin/Debug/netcoreapp2.0/ChallengeThree.runtimeconfig.json
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/bin/Debug/netcoreapp2.0/ChallengeThree.runtimeconfig.dev.json
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/bin/Debug/netcoreapp2.0/ChallengeThree.dll
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/bin/Debug/netcoreapp2.0/ChallengeThree.pdb
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/obj/Debug/netcoreapp2.0/ChallengeThree.csprojResolveAssemblyReference.cache
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/obj/Debug/netcoreapp2.0/ChallengeThree.csproj.CoreCompileInputs.cache
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/obj/Debug/netcoreapp2.0/ChallengeThree.AssemblyInfoInputs.cache
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/obj/Debug/netcoreapp2.0/ChallengeThree.AssemblyInfo.cs
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/obj/Debug/netcoreapp2.0/ChallengeThree.dll
+/Users/malikrobinson/Projects/ChallengeThree/ChallengeThree/obj/Debug/netcoreapp2.0/ChallengeThree.pdb
